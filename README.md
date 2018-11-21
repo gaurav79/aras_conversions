@@ -10,7 +10,7 @@ bower install aras-conversion --save
 ### Javascript
 ```javascript
 var aras = require('aras-conversion');
-var boys = aras.getArasData('test data');
+var data = aras.getArasData('test data');
 ```
 ```sh
 Output should be 'test data'
