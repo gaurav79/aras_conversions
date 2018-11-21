@@ -1,0 +1,26 @@
+{
+  "name": "aras-conversion",
+  "version": "1.0.0",
+  "description": "Translation library for converting json data to aras compatible format.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav79/aras_conversions.git"
+  },
+  "author": "Gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurav79/aras_conversions/issues"
+  },
+  "homepage": "https://github.com/gaurav79/aras_conversions#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "typescript": "^3.1.6"
+  }
+}
