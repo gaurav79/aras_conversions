@@ -20,7 +20,7 @@
   "homepage": "https://github.com/gaurav79/aras_conversions#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "typescript": "^3.1.6"
   }
 }
